@@ -1,8 +1,8 @@
 
 Inspired by the work of:
 
-(Google Interview University https://github.com/jwasham/google-interview-university) by @jwasham
-(Everything you need to kick ass on your coding interview https://github.com/andreis/interview) by @andreis
+[Google Interview University](https://github.com/jwasham/google-interview-university) by @jwasham
+[Everything you need to kick ass on your coding interview](https://github.com/andreis/interview) by @andreis
 
 ### Reasons
 I decided to create my own, it's basically a set of practical challenges written in python and javascript.
